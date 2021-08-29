@@ -1,3 +1,5 @@
+Ejecuta composer install Ejecuta composer update Ejecuta php artisan key:generate Ejecuta php artisan cache:clear Ejecuta php artisan serve
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
