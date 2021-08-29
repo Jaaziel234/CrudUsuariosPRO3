@@ -10,7 +10,7 @@ class UserController extends Controller
         if(request()->has('empty')){
             $users = [];
         }else{
-            $users = ["Jose Miguel","Roberto Vazques","Carlos Ramirez"];
+            $users = ["Carlos Martinez","Mario Menendez","Jose Gutierrez"];
         }
         return view('users.index',compact('users'));
     }
